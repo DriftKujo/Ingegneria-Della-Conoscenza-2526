@@ -17,12 +17,12 @@ Creare l'ambiente virtuale ed attivarlo
 <code> cd Ingegneria-Della-Conoscenza-2526 </code>
 
 Su Windows:
-<code> python -m venv venv </code>
-<code> venv\Scripts\activate </code>
+<code> python -m venv Ingegneria-Della-Conoscenza-2526 </code>
+<code> Ingegneria-Della-Conoscenza-2526\Scripts\activate </code>
 
 Su macOS/Linux:
-<code> python3 -m venv venv </code>
-<code> source venv/bin/activate </code>
+<code> python3 -m venv Ingegneria-Della-Conoscenza-2526 </code>
+<code> source Ingegneria-Della-Conoscenza-2526/bin/activate </code>
 
 Installare le dipendenze:
 
