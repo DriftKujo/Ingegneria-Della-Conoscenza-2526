@@ -14,7 +14,7 @@ Clonare il progetto
 
 Creare l'ambiente virtuale ed attivarlo
 
-<code> cd [NomeRepository] </code>
+<code> cd Ingegneria-Della-Conoscenza-2526 </code>
 
 Su Windows:
 <code> python -m venv venv </code>
