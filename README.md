@@ -10,7 +10,7 @@ Installare Java (Requisito di sistema fondamentale per il motore di ragionamento
 
 Clonare il progetto 
 
-<code>git clone https://github.com/[TuoUsername]/[NomeRepository].git</code>
+<code>git clone https://github.com/DriftKujo/Ingegneria-Della-Conoscenza-2526.git</code>
 
 Creare l'ambiente virtuale ed attivarlo
 
