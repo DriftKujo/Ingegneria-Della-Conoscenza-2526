@@ -6,7 +6,7 @@ Repository per il progetto di Ingegneria della Conoscenza realizzato da:
 ## Fase iniziale
 Installare Java (Requisito di sistema fondamentale per il motore di ragionamento logico HermiT)
 
-<code>https://adoptium.net/</code>
+<code>[https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/)</code>
 
 Clonare il progetto 
 
@@ -36,12 +36,12 @@ Installare le dipendenze:
 
  Fase 1: Caricamento Ontologia reale, iniezione regole logiche e Reasoning (HermiT) <br>
 
-<code> python src/1_ontology_reasoner.py </code>
+<code> python src/1.KB_Reasoning.py </code>
  
  Fase 2: Ricerca su Grafo, estrazione feature (Shortest Path) e salvataggio dataset <br>
 
-<code> python src/2_semantic_search.py </code>
+<code> python src/2.Ricerca_Grafo.py </code>
  
  Fase 3: Apprendimento Supervisionato e valutazione (Nested Cross-Validation) <br>
 
-<code> python src/3_supervised_ml.py </code>
+<code> python src/3.Machine_Learning.py </code>
