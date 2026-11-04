@@ -12,16 +12,17 @@ Clonare il progetto
 
 <code>git clone https://github.com/DriftKujo/Ingegneria-Della-Conoscenza-2526.git</code>
 
-Creare l'ambiente virtuale ed attivarlo:
-cd Ingegneria-Della-Conoscenza-2526 
+Creare l'ambiente virtuale ed attivarlo
 
-Su Windows: 
-<code>python -m venv venv</code>
-<code>venv\Scripts\activate</code>
+<code> cd Ingegneria-Della-Conoscenza-2526 </code>
 
-Su macOS/Linux: 
-<code>python3 -m venv venv</code>
-<code>source venv/bin/activate<code>
+Su Windows:
+<code> python -m venv venv </code>
+<code> venv\Scripts\activate </code>
+
+Su macOS/Linux:
+<code> python3 -m venv venv </code>
+<code> source venv/bin/activate </code>
 
 Installare le dipendenze:
 
