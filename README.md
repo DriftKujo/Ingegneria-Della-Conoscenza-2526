@@ -20,8 +20,8 @@ Su Windows:
 <code>venv\Scripts\activate</code>
 
 Su macOS/Linux: 
-python3 -m venv venv
-source venv/bin/activate
+<code>python3 -m venv venv</code>
+<code>source venv/bin/activate<code>
 
 Installare le dipendenze:
 
