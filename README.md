@@ -1,4 +1,4 @@
-# ML+OntoBK: Integrazione di Semantic Background Knowledge nel Machine Learning
+# ML+OntoBK: Integrazione di Semantic Background Knowledge e Apprendimento Supervisionato in ambito Diagnostico
 Repository per il progetto di Ingegneria della Conoscenza realizzato da:
 - Matthias Andriola (mat.797413)
 
